@@ -1,2 +1,2 @@
-# TFS-privacy-policy-
+# TFS-privacy-policy
 TFS 개인정보 처리방침
